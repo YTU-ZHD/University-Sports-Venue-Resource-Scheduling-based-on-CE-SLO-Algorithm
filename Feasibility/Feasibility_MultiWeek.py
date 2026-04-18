@@ -746,7 +746,6 @@ def cultural_exchange(regions: List[Region], reqs: List[Request], fit: Fitness, 
                 pop[i] = child
 
 def effective_generations(pop_size: int, regions: int, fe_target: Optional[int]) -> Optional[int]:
-    """基于 FE≈N0 + N*G（N0 初始评估）估算有效代数 G。返回 None 表示不改动。"""
     if not fe_target or fe_target <= 0:
         return None
     total_pop = pop_size * max(1, regions)
@@ -817,9 +816,7 @@ class GAParams:
     p_passive_min: float = 0.05
     anneal_alpha: float = 2.0
     anneal_beta: float = 1.0
-    # 预算对齐（新增）
     fe_target: Optional[int] = None
-    # 随机移民（新增）
     diversity_min: float = 0.15
     immigrants_rho: float = 0.05
     immigrants_cooldown: int = 5
