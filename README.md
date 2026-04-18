@@ -1,4 +1,3 @@
-# the-Cultural-Exchange-based-Social-Learning-Optimization-Algorithm
 All data and code in this project belong to the paper "An Optimized Scheduling Method for University Sports Venue Resources Based on the Cultural-Exchange-based Social Learning Optimization Algorithm".
 
 This project consists of 5 main parts: Data Generation (Init_Data folder), Feasibility Verification (Feasibility folder), Ablation Experiment (Ablation Experiment folder), Performance Comparison (Performance Comparison folder), and Statistical Significance Analysis (Wilcoxon-Friedman folder).
