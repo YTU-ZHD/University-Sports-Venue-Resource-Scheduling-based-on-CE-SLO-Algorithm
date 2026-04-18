@@ -1,0 +1,171 @@
+RequestID,Type,DesiredDay,DesiredSlot,Duration
+1,Hard Game,Sunday,3,4
+2,Hard Game,Friday,7,3
+3,Hard Game,Tuesday,7,4
+4,Hard Game,Tuesday,2,3
+5,Hard Game,Sunday,1,4
+6,Hard Game,Sunday,10,3
+7,Hard Game,Thursday,5,3
+8,Hard Game,Monday,5,3
+9,Soft Game,Tuesday,4,4
+10,Soft Game,Wednesday,8,3
+11,Soft Game,Wednesday,9,3
+12,Soft Game,Saturday,8,3
+13,Soft Game,Tuesday,5,4
+14,Soft Game,Sunday,6,4
+15,Soft Game,Sunday,3,3
+16,Soft Game,Tuesday,9,3
+17,Soft Game,Thursday,6,3
+18,Soft Game,Monday,3,4
+19,Soft Game,Wednesday,7,3
+20,Soft Game,Saturday,5,3
+21,Teaching,Thursday,5,2
+22,Teaching,Thursday,11,2
+23,Teaching,Monday,7,2
+24,Teaching,Friday,8,2
+25,Teaching,Thursday,7,2
+26,Teaching,Tuesday,11,2
+27,Teaching,Tuesday,3,2
+28,Teaching,Friday,9,2
+29,Teaching,Tuesday,3,2
+30,Teaching,Tuesday,2,2
+31,Teaching,Thursday,6,2
+32,Teaching,Tuesday,1,2
+33,Teaching,Monday,2,2
+34,Teaching,Thursday,4,2
+35,Teaching,Thursday,6,2
+36,Teaching,Tuesday,8,2
+37,Teaching,Tuesday,3,2
+38,Teaching,Thursday,4,2
+39,Teaching,Thursday,9,2
+40,Teaching,Tuesday,8,2
+41,Teaching,Thursday,10,2
+42,Teaching,Friday,7,2
+43,Teaching,Thursday,7,2
+44,Teaching,Tuesday,11,2
+45,Teaching,Thursday,5,2
+46,Teaching,Thursday,2,2
+47,Teaching,Monday,6,2
+48,Teaching,Monday,7,2
+49,Teaching,Thursday,9,2
+50,Teaching,Tuesday,2,2
+51,Teaching,Monday,4,2
+52,Teaching,Tuesday,4,2
+53,Teaching,Friday,8,2
+54,Teaching,Friday,2,2
+55,Teaching,Friday,4,2
+56,Teaching,Friday,4,2
+57,Teaching,Monday,7,2
+58,Teaching,Friday,5,2
+59,Teaching,Friday,8,2
+60,Teaching,Monday,1,2
+61,Teaching,Tuesday,9,2
+62,Teaching,Monday,5,2
+63,Teaching,Wednesday,11,2
+64,Teaching,Monday,7,2
+65,Teaching,Tuesday,7,2
+66,Teaching,Monday,8,2
+67,Teaching,Wednesday,10,2
+68,Teaching,Wednesday,2,2
+69,Teaching,Friday,2,2
+70,Teaching,Tuesday,9,2
+71,Teaching,Tuesday,4,2
+72,Teaching,Tuesday,9,2
+73,Teaching,Tuesday,3,2
+74,Teaching,Wednesday,3,2
+75,Teaching,Tuesday,4,2
+76,Teaching,Wednesday,7,2
+77,Teaching,Tuesday,2,2
+78,Teaching,Thursday,11,2
+79,Teaching,Friday,9,2
+80,Teaching,Thursday,11,2
+81,Student Club,Thursday,11,2
+82,Student Club,Wednesday,10,2
+83,Student Club,Sunday,6,3
+84,Student Club,Thursday,1,3
+85,Student Club,Monday,5,1
+86,Student Club,Saturday,9,1
+87,Student Club,Friday,3,2
+88,Student Club,Saturday,6,2
+89,Student Club,Friday,3,2
+90,Student Club,Wednesday,4,1
+91,Student Club,Monday,6,3
+92,Student Club,Tuesday,10,2
+93,Student Club,Tuesday,3,3
+94,Student Club,Saturday,9,3
+95,Student Club,Saturday,10,1
+96,Student Club,Thursday,8,2
+97,Student Club,Sunday,8,2
+98,Student Club,Wednesday,7,1
+99,Student Club,Saturday,9,2
+100,Student Club,Tuesday,11,1
+101,Student Club,Monday,10,2
+102,Student Club,Wednesday,4,1
+103,Student Club,Thursday,8,2
+104,Student Club,Friday,9,2
+105,Student Club,Saturday,8,3
+106,Student Club,Sunday,6,1
+107,Student Club,Monday,9,1
+108,Student Club,Sunday,1,2
+109,Student Club,Sunday,5,3
+110,Student Club,Thursday,6,3
+111,Student Club,Friday,1,2
+112,Student Club,Tuesday,3,3
+113,Student Club,Wednesday,7,3
+114,Student Club,Tuesday,5,1
+115,Student Club,Tuesday,7,2
+116,Student Club,Sunday,10,2
+117,Student Club,Wednesday,4,1
+118,Student Club,Tuesday,8,3
+119,Student Club,Saturday,4,3
+120,Student Club,Saturday,6,2
+121,Free Exercise,Sunday,2,1
+122,Free Exercise,Sunday,10,1
+123,Free Exercise,Sunday,6,1
+124,Free Exercise,Sunday,7,1
+125,Free Exercise,Saturday,2,1
+126,Free Exercise,Sunday,1,1
+127,Free Exercise,Saturday,8,1
+128,Free Exercise,Saturday,11,1
+129,Free Exercise,Sunday,1,1
+130,Free Exercise,Saturday,7,1
+131,Free Exercise,Saturday,8,1
+132,Free Exercise,Saturday,6,1
+133,Free Exercise,Saturday,2,1
+134,Free Exercise,Saturday,1,1
+135,Free Exercise,Saturday,7,1
+136,Free Exercise,Sunday,10,1
+137,Free Exercise,Sunday,6,1
+138,Free Exercise,Saturday,4,1
+139,Free Exercise,Saturday,7,1
+140,Free Exercise,Saturday,11,1
+141,Free Exercise,Sunday,2,1
+142,Free Exercise,Saturday,7,1
+143,Free Exercise,Saturday,4,1
+144,Free Exercise,Sunday,4,1
+145,Free Exercise,Saturday,9,1
+146,Free Exercise,Saturday,6,1
+147,Free Exercise,Sunday,5,1
+148,Free Exercise,Sunday,3,1
+149,Free Exercise,Saturday,1,1
+150,Free Exercise,Saturday,3,1
+151,Free Exercise,Sunday,11,1
+152,Free Exercise,Saturday,1,1
+153,Free Exercise,Saturday,8,1
+154,Free Exercise,Sunday,1,1
+155,Free Exercise,Saturday,4,1
+156,Free Exercise,Sunday,10,1
+157,Free Exercise,Sunday,8,1
+158,Free Exercise,Sunday,1,1
+159,Free Exercise,Saturday,12,1
+160,Free Exercise,Saturday,6,1
+161,Free Exercise,Saturday,12,1
+162,Free Exercise,Saturday,7,1
+163,Free Exercise,Saturday,8,1
+164,Free Exercise,Sunday,9,1
+165,Free Exercise,Saturday,12,1
+166,Free Exercise,Sunday,1,1
+167,Free Exercise,Saturday,2,1
+168,Free Exercise,Sunday,6,1
+169,Free Exercise,Sunday,1,1
+170,Free Exercise,Sunday,5,1
